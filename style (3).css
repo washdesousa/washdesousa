@@ -1,0 +1,18 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+    border-radius: 50% ;
+}
+body{background-color: rgba(238, 238, 231, 0.697);}
+.sobre_mim {background-color: rgb(8, 236, 236);}
+.perfil {background-color: aqua;
+    border-radius: 50%;
+
+}
+body{color: rgb(15, 15, 15);}
+.perfil{background-color: rgb(189, 22, 231);}
